@@ -27,19 +27,19 @@ item:
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
+    organization: TCU
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Computer Science
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_start: '2023-01-01'
+    description: Harvard
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Oxford
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: https://www.google.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
