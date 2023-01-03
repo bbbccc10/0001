@@ -42,7 +42,7 @@ bio: 我班上有六篇論文要分享。
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#12345' mailto:test@example.org"
+    link: mailto:test@example.org
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/realdonaldtrump
