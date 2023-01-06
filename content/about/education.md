@@ -30,9 +30,7 @@ experience:
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Y= mc^2
 
   - title: TCU
     company: University X
