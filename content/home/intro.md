@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Nyam Zhi Yee**, a student in Tzu Chi University, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: pink;"}
+👋 Hi, there! 這個網站分享了我關於現實生活中的概率思維和評論的六篇文章
 
 
