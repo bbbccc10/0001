@@ -1,6 +1,6 @@
 ---
 title: 機率思考- 淺談貝氏機率
-summary: Good stuff
+summary: 關於「機會法則」的評論
 tags:
   - ML
 date: 2022-01-01

@@ -1,6 +1,6 @@
 ---
 title: 機率思考
-summary: Write about your project here...
+summary: 貝葉斯推理的一個例子
 tags:
   - ML
 date: 2022-01-01

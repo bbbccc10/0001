@@ -1,6 +1,6 @@
 ---
 title: 個人專案介紹
-summary: Write about your project here...
+summary: 以一件你曾完成的專案為題目，介紹你在這項專案學到的知識。
 tags:
   - CV
 date: 2022-01-01

@@ -1,6 +1,6 @@
 ---
 title: 反向解讀科普文章
-summary: 
+summary: 對部分文章的評論
 tags:
   - ML
 date: 2022-01-01
