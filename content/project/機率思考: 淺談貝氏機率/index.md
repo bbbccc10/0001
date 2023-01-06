@@ -2,7 +2,7 @@
 title: 機率思考
 summary: 貝葉斯推理的一個例子
 tags:
-  - TCU
+  - All
 date: 2022-01-01
 external_link: http://github.com
 ---
