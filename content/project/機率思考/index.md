@@ -2,7 +2,7 @@
 title: 機率思考- 淺談貝氏機率
 summary: 關於「機會法則」的評論
 tags:
-  - ML
+  - All
 date: 2022-01-01
 external_link: http://github.com
 ---

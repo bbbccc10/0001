@@ -2,7 +2,7 @@
 title: 應對不確定性的可靠策略
 summary: 在現實生活中應用的概率思維
 tags:
-  - NLP
+  - All
 date: 2022-01-01
 external_link: http://github.com
 ---

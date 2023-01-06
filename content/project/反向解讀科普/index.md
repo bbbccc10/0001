@@ -2,7 +2,7 @@
 title: 反向解讀科普文章
 summary: 對部分文章的評論
 tags:
-  - ML
+  - All
 date: 2022-01-01
 external_link: http://github.com
 ---

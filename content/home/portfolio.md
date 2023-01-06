@@ -27,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '*'
+      tag: All
     - name: TCU
       tag: TCU
     - name: 心得

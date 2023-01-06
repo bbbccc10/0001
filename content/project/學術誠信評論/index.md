@@ -2,7 +2,7 @@
 title: 學術誠信評論
 summary: 學術誠信評注：案例5
 tags:
-  - NLP
+  - All
 date: 2022-01-01
 external_link: http://github.com
 ---
