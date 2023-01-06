@@ -6,11 +6,7 @@ tags:
 date: 2022-01-01
 #external_link: http://github.com
 
-gallery_item:
-- album: <ALBUM FOLDER>
-  image: <IMAGE 1 NAME>.jpg
-  caption: boob
-
+![screenreadertext](IMAGE 1 NAME.png "pls work")
 ---
 
 
