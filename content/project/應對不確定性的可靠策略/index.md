@@ -7,7 +7,7 @@ date: 2022-01-01
 #external_link: http://github.com
 
 ---
-<img src= "IMAGE 1 NAME"  style="display: block; margin: auto;" />
+<img src= "IMAGE 1 NAME" >
 
 效用分析是指描述、預測和解釋決定決策選項的有用性或可取性的因素，並檢查該信息如何影響決策的過程。圖 1 概述了在某種情況下預期結的真實積極（行動遠離期望有接收）和真實消極行動。圖 2 是對自然災害情況的詳細分析以及是否準備好應急包的預期結果。
 
