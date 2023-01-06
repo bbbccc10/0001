@@ -9,7 +9,7 @@ date: 2022-01-01
 
 gallery_item:
 - album: <ALBUM FOLDER>
-  image: <irl>.png
+  image: <irl.png>
   caption: <圖1&2>
 
 
