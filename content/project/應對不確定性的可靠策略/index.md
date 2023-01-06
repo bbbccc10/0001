@@ -8,8 +8,8 @@ date: 2022-01-01
 ---
 
 gallery_item:
-- album: <ALBUM FOLDER>
-  image: <IMAGE irl>.png
+- album: <應對不確定性的可靠策略>
+  image: <irl>.png
   caption: Write your image 1 caption here
 
 
