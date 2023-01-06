@@ -29,21 +29,21 @@ item:
     description: ''
     organization: TCU
     organization_url: https://www.coursera.org
-    title: Computer Science
+    title: French
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2023-01-01'
-    description: Harvard
-    organization: edX
+    description: Spanish
+    organization: TCU
     organization_url: https://www.edx.org
-    title: Oxford
+    title: English
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.google.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
+    description: Malay
+    organization: TCU
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
