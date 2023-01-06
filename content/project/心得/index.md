@@ -4,7 +4,7 @@ summary: 我不確定這是否包括在內，但我想分享我的觀點
 tags:
   - Reflection
 date: 2022-01-01
-external_link: http://github.com
+#external_link: http://github.com
 ---
 
 一個能夠迎接挑戰的人。 然而，這個學期我的表現並沒有想像中的那麼好。

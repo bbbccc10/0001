@@ -4,7 +4,7 @@ summary: 在現實生活中應用的概率思維
 tags:
   - All
 date: 2022-01-01
-external_link: http://github.com
+#external_link: http://github.com
 ---
 
 ![screen reader text](irl.png "圖 1&2")

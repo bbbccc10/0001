@@ -4,7 +4,7 @@ summary: 貝葉斯推理的一個例子
 tags:
   - All
 date: 2022-01-01
-external_link: http://github.com
+#external_link: http://github.com
 ---
 
 貝葉斯統計是一種將概率應用於統計問題的數學過程。 它為人們提供了更新他們對來自新數據的證據的信念的工具[^1]。

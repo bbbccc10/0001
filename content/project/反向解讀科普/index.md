@@ -4,7 +4,7 @@ summary: 對部分文章的評論
 tags:
   - All
 date: 2022-01-01
-external_link: http://github.com
+#external_link: http://github.com
 ---
 
 社交網路使用與社交壓力之間的關聯
